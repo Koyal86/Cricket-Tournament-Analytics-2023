@@ -1,28 +1,28 @@
-🏏 Cricket Tournament Analytics Dashboard 📊
-📌 Project Overview
+#🏏 Cricket Tournament Analytics Dashboard 📊
+#📌 Project Overview
 
 Cricket is a data-rich sport where match outcomes, team strategies, and player performances are influenced by multiple factors such as scoring patterns, wickets, venues, and match conditions. Analyzing these factors helps uncover hidden trends and performance insights across tournaments.
 
 In this project, I analyzed a cricket tournament dataset to derive insights related to team performance, scoring behavior, boundary trends, match outcomes, and venue impact.
 Google Sheets was used for data cleaning and preparation, while Looker Studio was used to build interactive dashboards for visual storytelling.
 
-🎯 Objectives
+#🎯 Objectives
 Provide a complete overview of the cricket tournament
 Analyze team-wise performance and consistency
 Study scoring patterns and run distribution
 Examine boundary and wicket trends
 Evaluate match outcomes and key performance indicators
 Analyze the impact of venues and officiating on matches
-📊 Dataset
+#📊 Dataset
 
-Source: Cricket Match Dataset (Kaggle / Official Match Data)
+Source: https://www.kaggle.com/datasets/maulikpatel1930/cricket-world-cup-2023
 
 Raw Dataset: Available in RawDataset folder
 Cleaned Dataset: Available in CleanedDataSet folder
 
 The dataset includes match-level, team-level, and performance-based statistics across the tournament.
 
-📂 Project Structure
+#📂 Project Structure
 Cricket-Tournament-Analytics
 │
 ├── RawDataset
@@ -40,7 +40,7 @@ Cricket-Tournament-Analytics
 │   ├── Officiating-and-Venue-Analysis-Dashboard.png
 │
 └── README.md
-📊 Dashboard Overview
+#📊 Dashboard Overview
 📄 Page 1: Tournament Overview
 
 This dashboard provides a high-level summary of the entire tournament. It highlights key metrics such as total matches played, total teams, total runs scored, total wickets taken, and tournament duration.
@@ -89,7 +89,7 @@ This dashboard focuses on the impact of venues and match conditions on gameplay.
 📸 Dashboard Preview
 
 
-🔍 Key Insights
+#🔍 Key Insights
 Certain teams consistently outperform others across multiple metrics
 High-scoring matches are often linked to specific venues
 Boundary frequency increases significantly in middle and death overs
@@ -99,7 +99,7 @@ Venue conditions have a noticeable impact on scoring and match outcomes
 Google Sheets – Data cleaning and preprocessing
 Looker Studio – Interactive dashboard creation
 GitHub – Project documentation and version control
-📌 Dataset Description
+#📌 Dataset Description
 
 The dataset contains detailed cricket match information, including:
 
@@ -110,12 +110,12 @@ Boundary Data: Number of Fours and Sixes
 Wickets: Wickets Taken, Fall of Wickets
 Venue Details: Stadium Name, City, Country
 Match Outcome: Winner, Margin of Victory, Toss Decision
-🏁 Conclusion
+#🏁 Conclusion
 
 This cricket tournament analysis demonstrates how data analytics can uncover meaningful insights from sports data. Team performance, scoring trends, venue conditions, and match strategies all play a critical role in determining match outcomes.
 
 By visualizing these aspects through interactive dashboards, the project provides a comprehensive and easy-to-understand view of tournament dynamics and highlights the importance of consistent performance and strategic decision-making in competitive cricket.
 
-👤 Author
+#👤 Author
 
 Koyal Chakraborty
